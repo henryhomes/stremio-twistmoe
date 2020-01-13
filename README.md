@@ -1,5 +1,7 @@
 # Stremio Add-on for Twist.moe
 
+Local Stremio add-on for [PimpMyStremio](https://github.com/sungshon/PimpMyStremio).
+
 This add-on uses [Stremio Kitsu](https://github.com/henryhomes/stremio-kitsu) internally to show it's stream results next to other anime add-ons.
 
 
